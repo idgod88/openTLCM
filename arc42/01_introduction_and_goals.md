@@ -13,6 +13,30 @@ architects and development team must consider. These include
 
 -   relevant stakeholders and their expectations
 
+
+A test management tool that is open source and free to use. Should have an essential functional set to manage projects, run test cases (manual & automated)
+
+Business goals & essential features:
+-   Bring in all requirements for the application
+-   Generate manual test cases for coverage
+-   Fill test cases manual or automated with adapters to tools
+-   run tests cases
+-   get results
+-   get reports from results for test cases, requirements, etc.
+-   get detailed logfiles
+-   all via web services
+-   distribution to run tests 
+
+quality goals:
+-   reliable: easy to backup and manage
+-   lean with just essential data in standard
+-   portable to local machines 
+-   reintegratable into origin
+-   changeable to other databases
+-   changeable to other guis
+
+
+
 ## Requirements Overview
 
 <div class="formalpara-title">
